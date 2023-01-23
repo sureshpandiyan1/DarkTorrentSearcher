@@ -4,10 +4,18 @@ it's was written in python code to smoothly without any delay in a process of co
 
 ![Group 9](https://user-images.githubusercontent.com/112636345/214081181-69d12809-f4e6-4b37-accb-b0dc4c783695.png)
 
+# how to run
+      
+      pip install -r requirements.txt
+      just run setup.py
+
+
 # Why you need DarkTorrentSearcher ?
       No Spyware
       No more worry about third party sites
       No unnecessary Links opens
+      
+  
 
 ![(darktorrent)](https://github.com/sureshpandiyan1/DarkTorrentSearcher/blob/b962c1eedd37bbdf8cf652c8c045738ac27e7734/dtsss_edit_1.gif)
 
