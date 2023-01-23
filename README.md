@@ -13,5 +13,5 @@ it's was written in python code to smoothly without any delay in a process of co
 
 
 ## Copyright & License
-Copyright @ 2022 DarkTorrentSearcher | Created By Suresh P
-Made with ❤️ For Everyone | MIT License
+      Copyright @ 2022 DarkTorrentSearcher | Created By Suresh P
+      Made with ❤️ For Everyone | MIT License
